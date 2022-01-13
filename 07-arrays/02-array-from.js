@@ -4,6 +4,6 @@ const arrayLike = {
     length: 6
 }
 
-const arrayLikeToArr = Array.from(arrayLike)
+const arrayLikeToArr = Array.from(arrayLike, (v) => console.log(v))
 
 console.log(arrayLikeToArr)
