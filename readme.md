@@ -8,4 +8,5 @@
 
 # ✅ Tópicos Estudados
 
- - [ ] Chapter 06 - Objects
+ - [X] Chapter 06 - Objects
+ - [X] Chapter 07 - Arrays
